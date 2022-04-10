@@ -1,1 +1,1 @@
-web: gunicorn Appstore.wsgi
+web: gunicorn assignHelp.wsgi --log-file -
